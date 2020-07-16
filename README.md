@@ -21,5 +21,5 @@ I am good At Data Structures and exploring machine learning with full stack deve
 - Codeforces : <a href="https://codeforces.com/profile/maze_runner99">maze_runner99</a>  
 - LeetCode : <a href="https://leetcode.com/maze-runnar"> maze-runnar</a>  
 - Medium: <a href ="https://medium.com/@dubesundaram99"> @dubesundaram</a>
-## ⚡ Fun fact: ...
+
 
