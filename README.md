@@ -22,4 +22,10 @@ I am good At Data Structures and exploring machine learning with full stack deve
 - LeetCode : <a href="https://leetcode.com/maze-runnar"> maze-runnar</a>  
 - Medium: <a href ="https://medium.com/@dubesundaram99"> @dubesundaram</a>
 
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=maze-runnar&&show_icons=true"/>
+  </a>
+</p>
+
 
