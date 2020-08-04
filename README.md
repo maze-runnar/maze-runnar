@@ -5,16 +5,16 @@
 Hey, I am a pre-final year undergraduate student at Harcourt Butler Technical University in the Computer Science and Engineering Branch.  
 I love software development and more than that I love the challenges that comes in way. I am never settle only with a technology I know. I have always a keen interest to going out of my comfort zone and trying something out of the box.  
 I am good At Data Structures and exploring machine learning with full stack development.
-##  🔭 I’m currently working on ...
+##  🔭 I’m currently working on 
 <li> Flask/ Djago (Full Stack)</li>
 <li> ReactJs</li>
 <li> React Native</li>
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning 
 <li> Docker </li>
 <li> GraphQL </li>
 
-## 📫 How to reach me: ...
+## 📫 How to reach me: 
   Contact me on Gmail: dubeysundaram057@gmail.com  
 ## :thinking: Where else you can find me?
 - Codechef : <a href="https://codechef.com/users/sdpro_code99">@sdpro_code99</a>  
