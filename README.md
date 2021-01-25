@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=maze-runnar&color=green)
 
 ### About Me  
 Hey, I am a final year undergraduate student at Harcourt Butler Technical University in the Computer Science and Engineering Branch.  
