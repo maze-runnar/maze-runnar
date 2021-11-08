@@ -1,5 +1,4 @@
 ### About Me  
-Hey, I am a final year undergraduate student at Harcourt Butler Technical University in the Computer Science and Engineering Branch.  
 I love software development and more than that I love the challenges that comes in way. I am never settle only with a technology I know. I have always a keen interest to going out of my comfort zone and trying something out of the box.
 
 ## How to reach me: 
